@@ -1,0 +1,6 @@
+{
+  "name": "AuraEnhance",
+  "description": "AI Image Studio & Enhancer to extract artwork, deblur, upscale, remove noise, and enhance colors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
